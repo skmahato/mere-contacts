@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+$black-theme-color: #020001;
+$gray-theme-color: #242223;
+$white-theme-color: #fefdfe;
+
+body {
+  background: $black-theme-color;
+}
+
+a {
+  outline: 0;
+}

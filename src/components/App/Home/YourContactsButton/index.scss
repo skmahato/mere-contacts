@@ -1,0 +1,14 @@
+.your-contacts {
+  position: absolute;
+  left: 45%;
+  top: 45%;
+
+  &__button {
+    background-color: gray;
+    border: 1px solid;
+    border-radius: 5px;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+  }
+}

@@ -1,0 +1,21 @@
+.navigation {
+  border-bottom: 1px solid;
+}
+
+.logo {
+  &:hover {
+    text-decoration: none;
+  }
+
+  &__mere {
+    color: white;
+    font-family: initial;
+    font-size: 30px;
+    font-style: italic;
+  }
+
+  &__contacts {
+    color: grey;
+    font-size: 40px;
+  }
+}
